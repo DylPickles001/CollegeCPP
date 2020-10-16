@@ -1,4 +1,4 @@
-# CollegeC++
+# College C++
 A repository of stuff from my C++ College Classes. Intended courses (Intro to C++, Advanced C++)
 
 ## 1st C++ Class (CIT 125: Intro to C++) Fall 2020
