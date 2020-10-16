@@ -8,4 +8,11 @@ I'll post my assignments with source code, documents, and all that good stuff.
 
 Organization:
 
-1. 
+1. Chapter 1- An Introduction to Programming
+2. Chapter 2- Beginning the Problem-Solving Process
+3. Chapter 3- Completing the Problem-Solving Process and Getting Started with C++
+4. Chapter 4- Variables, Constants, and Arithmetic Operators
+5. Chapter 5- The Selection Structure
+6. Chapter 6- More on the Selection Structure
+7. Midterm Review
+
